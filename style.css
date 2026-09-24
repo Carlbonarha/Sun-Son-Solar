@@ -120,7 +120,7 @@ html, body {
 
 
 .form-panel {
-  background: var(--cream);
+  background: var(--cream); 
   color: var(--night);
   display: flex;
   align-items: center;
