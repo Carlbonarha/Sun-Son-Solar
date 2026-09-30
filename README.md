@@ -1,10 +1,14 @@
 # 🌞 Sun Son Solar - Web System
 
-Complete web-based management system for Sun Son Solar, built with HTML, CSS, JavaScript, and SQLite.
+Web-based management system for Sun Son Solar, built with HTML, CSS, JavaScript, and SQLite.
 
 ---
 
+<<<<<<< HEAD
 ##  Project Files Structure
+=======
+## Project Files Structure
+>>>>>>> 16ab10e5a84020dfb520efb9a9c0562f4987ea67
 
 ```
 sun-son-solar/
@@ -59,4 +63,10 @@ The system comes with 2 pre-configured admin accounts:
 | Username | Password | Role |
 |----------|----------|------|
 | Kitty Kat16 | K@tSunShine16 | Admin |
+<<<<<<< HEAD
 | admin | admin 123 | Admin |
+=======
+| admin | admin 123 | Admin |
+
+
+>>>>>>> 16ab10e5a84020dfb520efb9a9c0562f4987ea67
